@@ -47,7 +47,7 @@ The project's directory structure is organized as follows to ensure modularity a
     │   └── processed   # processed input data
     ├── model/          # trained models
     ├── notebooks/      
-    ├── reports/        # reporting materials and documents lengkap
+    ├── reports/        # reporting materials and documents
     ├── requirements.txt
     └── README.md
 
