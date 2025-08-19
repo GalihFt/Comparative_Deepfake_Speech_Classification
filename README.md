@@ -63,7 +63,7 @@ The following steps detail the procedure for replicating the environment and run
 #### Installation Steps
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/GalihFt/Comparative_Deepfake_Speech_Classification](https://github.com/GalihFt/Comparative_Deepfake_Speech_Classification)
+    git clone https://github.com/GalihFt/Comparative_Deepfake_Speech_Classification.git
     cd your-repo-name
     ```
 2.  **Install Dependencies**:
