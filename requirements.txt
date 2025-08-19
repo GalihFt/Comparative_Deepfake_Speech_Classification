@@ -1,0 +1,22 @@
+# Scientific Computing & Data Manipulation
+numpy
+pandas
+scipy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Deep Learning
+scikit-learn
+tensorflow
+optuna
+
+# Audio & Image Processing
+librosa
+scikit-image
+
+# Utilities
+joblib
+tqdm
+ipython
